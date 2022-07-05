@@ -1,0 +1,18 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+img {
+    width: 400px;
+    height: auto;
+}
+main {
+    width: 500px;
+    margin: 15px auto;
+}
+h1 {
+    font-size: 36px;
+}
+h2 {
+    font-size: 26px;
+}
